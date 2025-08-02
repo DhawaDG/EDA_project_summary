@@ -1,5 +1,6 @@
 
-# Exploratory Data Analysis (EDA) with Python
+## Exploratory Data Analysis (EDA) with Python
+
 
 This section highlights my proficiency in Exploratory Data Analysis (EDA), a critical step in any data science workflow. Through the use of Python libraries like Pandas and visualization tools, I demonstrate the ability to uncover patterns, detect anomalies, test hypotheses, and extract key insights from data. The projects listed here showcase a hands-on approach to preparing data for modeling and informing business decisions.
 ---
