@@ -70,7 +70,7 @@ A collection of my detailed handwritten notes and summaries on these topics is a
 
 
 - [📄 View PDF on GitHub](https://github.com/DhawaDG/EDA_project_summary/blob/main/buildingsqldatasetsforanalyticalreporting.pdf)
-- [⬇️ Download PDF](https://github.com/DhawaDG/EDA_project_summary/raw/refs/heads/main/)uildingsqldatasetsforanalyticalreporting.pdf
+- [⬇️ Download PDF](https://github.com/DhawaDG/EDA_project_summary/raw/refs/heads/main/buildingsqldatasetsforanalyticalreporting.pdf)
 ---
 
 ## Book References
