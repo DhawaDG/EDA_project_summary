@@ -71,6 +71,33 @@ A collection of my detailed handwritten notes and summaries on these topics is a
 
 ### 2. Building sql datasets for analytical reporting.
 
+| Topics Covered | Page |
+| :--- | :--- |
+| Business question to data question to data answer to business answer flow | `page 1` |
+| Thinking through analytical dataset requirements (requirements, granularity, combining data, summarizing) | `page 1` |
+| Error Code 1055: aggregated vs non-aggregated columns and GROUP BY | `page 2` |
+| customer_purchases, market_date_info and vendor sample tables | `page 3` |
+| Designing the reusable dataset: query joining the three tables with ROUND(SUM(...), 2) AS sales | `page 4` |
+| Output of the reusable dataset (date, day, week, year, vendor, sales) | `page 4` |
+| Using the dataset: total sales last week (subquery, BETWEEN) | `page 5` |
+| Sales by vendor type | `page 6` |
+| Sales on raining vs non-raining days | `page 7` |
+| Custom analytical datasets in SQL (CTEs and views): customer_purchases1, market_date_info1, vendor1 tables | `page 8` |
+| Using a CTE (sales_by_day_vendor) for weekly sales | `page 9` |
+| CTE output (week 40, 70.50) | `page 10` |
+| Views: definition and CTE vs view comparison (storage, reusability, performance, use case, syntax) | `page 10` |
+| Create a view (vw_sales_by_day_vendor1) | `page 11` |
+| Query the view (weekly sales) and output | `page 11–12` |
+| Taking SQL reporting further: creating views, calculated fields, window functions, business questions | `page 13` |
+| vendor_inventory2, customer_purchases2, vendor2 and product2 tables | `page 13` |
+| Create a reusable view (vw_sales_per_date_vendor_product) with COALESCE, percent_of_available_sold, discount_amount | `page 14–15` |
+| Subquery joining output (quantity sold and total sales) | `page 15` |
+| Output of SELECT * from the view | `page 16` |
+| Query the view, Example 1: percentage of sales per vendor per market date (SUM(...) OVER (PARTITION BY ...)) | `page 17` |
+| PARTITION BY vs GROUP BY comparison | `page 17` |
+| Role of OVER in window functions | `page 18` |
+| Example 1 output (percent_of_vendor_sales) | `page 18` |
+| Example 2: sales for a specific vendor and date range, with output | `page 19` |
 
 - [📄 View PDF on GitHub](https://github.com/DhawaDG/EDA_project_summary/blob/main/buildingsqldatasetsforanalyticalreporting.pdf)
 - [⬇️ Download PDF](https://github.com/DhawaDG/EDA_project_summary/raw/refs/heads/main/buildingsqldatasetsforanalyticalreporting.pdf)
