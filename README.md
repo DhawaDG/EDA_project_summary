@@ -37,7 +37,7 @@ A collection of my detailed handwritten notes and summaries on these topics is a
 
 ## Table of Contents
 - [EDA Using SQL](### 1. EDA Using SQL)
-- [Building sql datasets for analytical reporting(### 2. Building sql datasets for analytical reporting.)
+- [Building sql datasets for analytical reporting](### 2. Building sql datasets for analytical reporting.)
 
 ### 1. EDA Using SQL
 
